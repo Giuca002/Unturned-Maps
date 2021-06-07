@@ -20,8 +20,11 @@ We are not affiliated with Nelson Sexton and Smartly Dressed Games ,but all cred
 
 Workshop links for easy use :)
 Workshop Posts: 
-Space PEI:https://steamcommunity.com/sharedfiles/filedetails/?id=2509962332
+Space PEI: https://steamcommunity.com/sharedfiles/filedetails/?id=2509960777&tscn=1623077355
+
 Halloween PEI: https://steamcommunity.com/sharedfiles/filedetails/?id=2509962332
-Festive PEI: https://steamcommunity.com/sharedfiles/filedetails/?id=2509962332
-Festive Russia: https://steamcommunity.com/sharedfiles/filedetails/?id=2509962332
+
+Festive PEI:https://steamcommunity.com/sharedfiles/filedetails/?id=2509963788&tscn=1623077373
+
+Festive Russia:https://steamcommunity.com/sharedfiles/filedetails/?id=2509967695&tscn=1623077346
 
