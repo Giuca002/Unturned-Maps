@@ -18,3 +18,10 @@ More people will be added
 
 We are not affiliated with Nelson Sexton and Smartly Dressed Games ,but all credit goes to them!
 
+Workshop links for easy use :)
+Workshop Posts: 
+Space PEI:https://steamcommunity.com/sharedfiles/filedetails/?id=2509962332
+Halloween PEI: https://steamcommunity.com/sharedfiles/filedetails/?id=2509962332
+Festive PEI: https://steamcommunity.com/sharedfiles/filedetails/?id=2509962332
+Festive Russia: https://steamcommunity.com/sharedfiles/filedetails/?id=2509962332
+
