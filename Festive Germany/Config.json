@@ -1,0 +1,12 @@
+{
+	"Use_Legacy_Clip_Borders": false,
+	"Use_Legacy_Ground": false,
+	"Use_Legacy_Water": false,
+	"Use_Legacy_Objects": false,
+	"Use_Legacy_Fog_Height": false,
+	"Use_Legacy_Oxygen_Height": false,
+	"Snow_Affects_Temperature": false,
+	"Terrain_Snow_Sparkle": true,
+	"Category": "Official",
+	"Status": "New"
+}
